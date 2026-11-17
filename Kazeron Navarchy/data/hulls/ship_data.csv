@@ -3,5 +3,5 @@ name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating
 Accipiter (PL),bsc_accipiter_kazeron,Combat Carrier,Kazeron Navarchy,reservewing,10,4000,400,4000,4000,250,100,1,90,50,30,40,60,450,FRONT,,270,0.4,0.8,,,90,180,80,60,2,30,9,68000,5,12,360,0.25,11,11,,,,,,,,kazeron_PL_bp,,0.5,2,3,,
 Buzzard (PL),bsc_buzzard_kazeron,Cruiser,Kazeron Navarchy,maneuveringjets,13,7000,850,9500,9000,550,145,,70,60,40,20,25,900,FRONT,,180,0.4,0.8,,,120,200,120,100,3,33,9,110000,4,12,480,0.25,18,18,,,,,,,,kazeron_PL_bp,,0.5,2,3,,
 #fighters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Thunder (PL),thunder_kazeron,,Kazeron Navarchy,,,455,45,770,,120,0,,480,620,520,175,300,28,OMNI,,120,0,1,,,1,1,,,,,,,,,,,,,,,,,,,,kazeron_PL_bp,,0,,,,
-Gladius (PL),gladius_kazeron,,Kazeron Navarchy,flarelauncher_fighter,,460,50,250,,75,0,,320,410,310,155,300,38,OMNI,,140,0,1,,,2,2,,,,,,,,,,,,,,,,,,,,kazeron_PL_bp,,0,,,,109
+Thunder (PL),thunder_kazeron,,Kazeron Navarchy,,,455,45,770,,120,0,,480,620,520,175,300,28,OMNI,,120,0,1,,,1,1,,,,,,,,,,,,,,,,,,,,,,0,,,,
+Gladius (PL),gladius_kazeron,,Kazeron Navarchy,flarelauncher_fighter,,460,50,250,,75,0,,320,410,310,155,300,38,OMNI,,140,0,1,,,2,2,,,,,,,,,,,,,,,,,,,,,,0,,,,109

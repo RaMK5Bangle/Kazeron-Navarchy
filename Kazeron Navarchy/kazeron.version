@@ -9,7 +9,7 @@
     #
     # Bitbucket, GitHub, and other online repositories make excellent hosts.
     #
-    "masterVersionFile":"https://raw.githubusercontent.com/RaMK5-Bangle/Kazeron-Navarchy/main/Kazeron%20Navarchy/kazeron.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/RaMK5Bangle/Kazeron-Navarchy/refs/heads/main/Kazeron%20Navarchy/kazeron.version",
 
     # The name that is displayed in-game for your mod
     "modName":"Kazeron Navarchy",
